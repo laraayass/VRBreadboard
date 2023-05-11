@@ -1,0 +1,11 @@
+The setup of the application is made in a way such that the breadboard is placed on one of the lab tables, with 3 buttons: -The Grab button which enables us to grab an integrated circuit (IC) and place it on the breadboard -The Add-Wire button which enables us to connect 2 pins -The Remove-Wire button which enables us to delete a connection between 2 pins
+
+To build any circuit using this virtual breadboard, we have to:
+
+Gaze at the Grab button then at the desired IC to get it
+Gaze at the place we want to set our IC on
+Once set up, we now move to the IC connections: Pin 7 should be connected to ground and pin 14 to VCC (as per the IC datasheet)
+
+example: To connect pin 7 to ground, we gaze at the Add-Wire button, then at pin 7, and finally at the ground connection
+
+The remaining connections are made depending on the given function to be implemented.
